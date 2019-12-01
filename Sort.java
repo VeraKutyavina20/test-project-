@@ -1,4 +1,6 @@
 public class Sort {
+    public static void main(String[] args) { 
+    }
     public static void insertionSort2(int[] m, int a, int b)
     {
         int i, j, t;
